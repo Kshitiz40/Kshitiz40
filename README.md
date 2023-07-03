@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kshitiz40
 - 👀 I’m interested in software engineering and web development
-- 🌱 I’m currently learning java and datastructures along with python.
+- 🌱 I’m currently learning bootstrap,php and javascript along with python.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me : through mail.
 
